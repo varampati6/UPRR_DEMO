@@ -19,14 +19,14 @@
   <distributionManagement>
 	
 	<repository>
-        <id>UPRR_DEMO</id>
+        <id>UPRR</id>
         <name>CVMP3529-releases</name>
-        <url>http://10.20.126.40:9090/artifactory/UPRR_DEMO</url>
+        <url>http://10.20.126.40:9090/artifactory/UPRR</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>UPRR_SNAPSHOT</id>
         <name>CVMP3529-snapshots</name>
-        <url>http://10.20.126.40:9090/artifactory/UPRR_DEMO</url>
+        <url>http://10.20.126.40:9090/artifactory/UPRR_SNAPSHOT</url>
     </snapshotRepository>
 	
     </distributionManagement>
